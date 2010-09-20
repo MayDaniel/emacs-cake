@@ -2,7 +2,7 @@
 
 ## Description
 
-Run Cake commands from Emacs.
+Run Cake commands within Emacs.
 
 ## TODO
 
