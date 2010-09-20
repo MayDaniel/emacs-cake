@@ -1,7 +1,7 @@
 (require 'cl)
 
 (defgroup cake nil
-  "Run Cake commands from Emacs."
+  "Run Cake commands within Emacs."
   :prefix "cake-"
   :group 'applications)
 
